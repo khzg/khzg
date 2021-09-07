@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-📢 Email me to work together 🙂🤝
-
 <!--
 **khashayarzavosh/khashayarzavosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
