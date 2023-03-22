@@ -3,7 +3,7 @@
  
  - 🌱 I’m currently working on other template with css, html, js
  - 🪙 donate or offer a project
- - 🪙 donate $5 : https://opensea.io/collection/crypto-avatar-4
+ - 🪙 donation by buying $5 from my NFTs: https://tinyurl.com/opensea2023
  - 📫 talk, offer project: e-mail [khashayar.zavosh@gmail.com](khashayar.zavosh@gmail.com)
 
 
